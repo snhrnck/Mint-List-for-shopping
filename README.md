@@ -13,7 +13,7 @@ Mint List is a lightweight, minimalist Android application that helps you organi
 
 ## 📥 Installation
 
-Visit the [Releases](https://github.com/snhrnck/Mint-List/releases) section. Download the latest APK version. Install it on your Android device. Open Mint List and start organizing your shopping today!
+Visit the [Releases](https://github.com/snhrnck/Mint-List-for-shopping/releases) section. Download the latest APK version. Install it on your Android device. Open Mint List and start organizing your shopping today!
 
 ## ☕ Support the Developer
 
@@ -25,6 +25,6 @@ Enjoying Mint List? You can support the project and its continued development wi
 
 ## 📄 License
 
-This project is licensed under the GNU General Public License v3.0 (GPL-3.0). See the [LICENSE](https://github.com/snhrnck/Mint-List/blob/main/LICENSE) file for details.
+This project is licensed under the GNU General Public License v3.0 (GPL-3.0). See the [LICENSE](https://github.com/snhrnck/Mint-List-for-shopping/blob/main/LICENSE) file for details.
 
 
