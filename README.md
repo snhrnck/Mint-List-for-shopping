@@ -1,4 +1,5 @@
-# Mint List 🛒
+# Mint List 🛒[![Download APK](https://img.shields.io/badge/Download-APK-success?style=for-the-badge&logo=android)](https://github.com/snhrnck/Mint-List-for-shopping/releases/latest)
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg?style=for-the-badge)](https://www.gnu.org/licenses/gpl-3.0)
 
 Mint List is a lightweight, minimalist Android application that helps you organize your shopping. Create lists, mark items as bought, and keep a history of your purchases. No internet, no ads, no tracking — just pure focus on your errands.
 
